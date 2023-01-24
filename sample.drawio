@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T12:19:40.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="yHk15Ar_dZAYzA_b9CBk" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T12:22:39.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qhlzJ3aBFeG74s277rgy" version="20.8.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,13 +25,13 @@
         <mxCell id="DBBJ72zB5dF7-DEx9NAv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DBBJ72zB5dF7-DEx9NAv-5" target="DBBJ72zB5dF7-DEx9NAv-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DBBJ72zB5dF7-DEx9NAv-5" value="sum=firstsum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DBBJ72zB5dF7-DEx9NAv-5" value="sum=firstsum + secondsum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DBBJ72zB5dF7-DEx9NAv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DBBJ72zB5dF7-DEx9NAv-6" target="DBBJ72zB5dF7-DEx9NAv-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DBBJ72zB5dF7-DEx9NAv-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DBBJ72zB5dF7-DEx9NAv-6" value="ave = sum / 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DBBJ72zB5dF7-DEx9NAv-7" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
