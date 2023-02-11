@@ -15,7 +15,7 @@ body {
 
 .bgimage {
     height: 100vh;
-    background: url(/img/bgimage.jpg);
+    background: url(/Mini_Project_1/img/bgimage.jpg);
     background-size: cover;
     position: relative;
 }
